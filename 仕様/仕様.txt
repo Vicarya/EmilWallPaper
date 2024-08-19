@@ -1,0 +1,8 @@
+WallPaper>Release>gifpic>
+上記のフォルダ内に画像を入れる。
+WallPaper>Release>Project2.exe
+上記の実行ファイルを起動する。
+	↓
+デスクトップの画像がgifのように切り替わる
+(背景画像の設定を利用している為、Windows10環境のみ有効。
+また、設定を経由している為、速度的に実用的でない)
